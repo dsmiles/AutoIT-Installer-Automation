@@ -17,11 +17,11 @@ EV Outlook Add-in was a third-party component that was installed into Microsoft 
 
 I used these scripts to quickly test new builds within a virtual machine (VM). My default virtualization tools at the time were:
 
-1. ***VMware Workstation***
+1. **VMware Workstation**
 
 For when I was running installers on my local machine.
 
-2. *** VMware ESX Server / Lab Manager***
+2. **VMware ESX Server / Lab Manager**
 
 For when I was running the installers as part of a larger suite of Build Verification Tests (BVT).
 
